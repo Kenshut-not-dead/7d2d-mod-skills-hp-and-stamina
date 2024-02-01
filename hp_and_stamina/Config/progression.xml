@@ -1,0 +1,63 @@
+<append xpath="//attFortitude">
+<append xpath="//perks">
+	<perk name="MoreHealth" parent="skillFortitudeRecovery" name_key="hp" desc_key="desc_perk_hp" icon="ui_game_symbol_add" min_level="0" max_level="10">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel01"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel02"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel03"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel04"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel05"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel06"/></level_requirements>
+		<level_requirements level="7"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel07"/></level_requirements>
+		<level_requirements level="8"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel08"/></level_requirements>
+		<level_requirements level="9"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel09"/></level_requirements>
+		<level_requirements level="10"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel10"/></level_requirements>
+
+			<effect_group>
+				<passive_effect name="HealthMax" operation="base_add" level="1, 2, 3, 4, 5, 6, 7, 8, 9, 10" value="5,10,15,20,25,30,35,40,45,50"/>
+			</effect_group>
+
+			<effect_group>
+				<effect_description level="1" desc_key="desc_HP1" long_desc_key="desc_long_hp1"/>
+				<effect_description level="2" desc_key="desc_HP" long_desc_key="desc_long_hp2"/>
+				<effect_description level="3" desc_key="desc_HP3" long_desc_key="desc_long_hp3"/>
+				<effect_description level="4" desc_key="desc_HP" long_desc_key="desc_long_hp4"/>
+				<effect_description level="5" desc_key="desc_HP5" long_desc_key="desc_long_hp5"/>
+				<effect_description level="6" desc_key="desc_HP" long_desc_key="desc_long_hp6"/>
+				<effect_description level="7" desc_key="desc_HP7" long_desc_key="desc_long_hp7"/>
+				<effect_description level="8" desc_key="desc_HP" long_desc_key="desc_long_hp8"/>
+				<effect_description level="9" desc_key="desc_HP9" long_desc_key="desc_long_hp9"/>
+				<effect_description level="10" desc_key="desc_HP10" long_desc_key="desc_long_hp10"/>
+			</effect_group>
+	</perk>
+	
+<perk name="MoreStamina" parent="skillFortitudeRecovery" name_key="Stamina" desc_key="desc_perk_sa" icon="ui_game_symbol_add" min_level="0" max_level="10">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel01"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel02"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel03"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel04"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel05"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel06"/></level_requirements>
+		<level_requirements level="7"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel07"/></level_requirements>
+		<level_requirements level="8"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel08"/></level_requirements>
+		<level_requirements level="9"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel09"/></level_requirements>
+		<level_requirements level="10"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel10"/></level_requirements>
+
+			<effect_group>
+				<passive_effect name="StaminaMax" operation="base_add" level="1, 2, 3, 4, 5, 6, 7, 8, 9, 10" value="5,10,15,20,25,30,35,40,45,50"/>
+			</effect_group>
+
+			<effect_group>
+				<effect_description level="1" desc_key="desc_sa1" long_desc_key="desc_long_sa1"/>
+				<effect_description level="2" desc_key="desc_sa" long_desc_key="desc_long_sa2"/>
+				<effect_description level="3" desc_key="desc_sa3" long_desc_key="desc_long_sa3"/>
+				<effect_description level="4" desc_key="desc_sa" long_desc_key="desc_long_sa4"/>
+				<effect_description level="5" desc_key="desc_sa5" long_desc_key="desc_long_sa5"/>
+				<effect_description level="6" desc_key="desc_sa" long_desc_key="desc_long_sa6"/>
+				<effect_description level="7" desc_key="desc_sa7" long_desc_key="desc_long_sa7"/>
+				<effect_description level="8" desc_key="desc_sa" long_desc_key="desc_long_sa8"/>
+				<effect_description level="9" desc_key="desc_sa9" long_desc_key="desc_long_sa9"/>
+				<effect_description level="10" desc_key="desc_sa10" long_desc_key="desc_long_sa10"/>
+			</effect_group>
+	</perk>
+</append>
+</append>
