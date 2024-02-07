@@ -2,15 +2,15 @@
 <append xpath="//perks">
 	<perk name="MoreHealth" parent="skillFortitudeRecovery" name_key="hp" desc_key="desc_perk_hp" icon="ui_game_symbol_add" min_level="0" max_level="10">
 		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel01"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel02"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel03"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel04"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel05"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel06"/></level_requirements>
-		<level_requirements level="7"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel07"/></level_requirements>
-		<level_requirements level="8"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel08"/></level_requirements>
-		<level_requirements level="9"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel09"/></level_requirements>
-		<level_requirements level="10"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel10"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="2" desc_key="reqFortitudeLevel02"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="3" desc_key="reqFortitudeLevel03"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="4" desc_key="reqFortitudeLevel04"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="6" desc_key="reqFortitudeLevel06"/></level_requirements>
+		<level_requirements level="7"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
+		<level_requirements level="8"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="8" desc_key="reqFortitudeLevel08"/></level_requirements>
+		<level_requirements level="9"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="9" desc_key="reqFortitudeLevel09"/></level_requirements>
+		<level_requirements level="10"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 
 			<effect_group>
 				<passive_effect name="HealthMax" operation="base_add" level="1, 2, 3, 4, 5, 6, 7, 8, 9, 10" value="5,10,15,20,25,30,35,40,45,50"/>
@@ -32,15 +32,15 @@
 	
 <perk name="MoreStamina" parent="skillFortitudeRecovery" name_key="Stamina" desc_key="desc_perk_sa" icon="ui_game_symbol_add" min_level="0" max_level="10">
 		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel01"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel02"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel03"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel04"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel05"/></level_requirements>
-		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel06"/></level_requirements>
-		<level_requirements level="7"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel07"/></level_requirements>
-		<level_requirements level="8"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel08"/></level_requirements>
-		<level_requirements level="9"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel09"/></level_requirements>
-		<level_requirements level="10"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="1" desc_key="reqFortitudeLevel10"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="2" desc_key="reqFortitudeLevel02"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="3" desc_key="reqFortitudeLevel03"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="4" desc_key="reqFortitudeLevel04"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="5" desc_key="reqFortitudeLevel05"/></level_requirements>
+		<level_requirements level="6"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="6" desc_key="reqFortitudeLevel06"/></level_requirements>
+		<level_requirements level="7"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="7" desc_key="reqFortitudeLevel07"/></level_requirements>
+		<level_requirements level="8"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="8" desc_key="reqFortitudeLevel08"/></level_requirements>
+		<level_requirements level="9"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="9" desc_key="reqFortitudeLevel09"/></level_requirements>
+		<level_requirements level="10"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
 
 			<effect_group>
 				<passive_effect name="StaminaMax" operation="base_add" level="1, 2, 3, 4, 5, 6, 7, 8, 9, 10" value="5,10,15,20,25,30,35,40,45,50"/>
@@ -59,5 +59,22 @@
 				<effect_description level="10" desc_key="desc_sa10" long_desc_key="desc_long_sa10"/>
 			</effect_group>
 	</perk>
+	
+<perk name="FastStamina" parent="skillFortitudeRecovery" name_key="Stamina_fast" desc_key="desc_perk_f_sa" icon="ui_game_symbol_add" min_level="0" max_level="3">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="6" desc_key="reqFortitudeLevel06"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="8" desc_key="reqFortitudeLevel08"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attFortitude" operation="GTE" value="10" desc_key="reqFortitudeLevel10"/></level_requirements>
+
+			<effect_group>
+				<passive_effect name="StaminaChangeOT" operation="perc_add" level="1, 2, 3" value=".01, .02, .03"/>
+			</effect_group>
+
+			<effect_group>
+				<effect_description level="1" desc_key="desc_f_sa1" long_desc_key="desc_long_f_sa1"/>
+				<effect_description level="2" desc_key="desc_f_sa2" long_desc_key="desc_long_f_sa2"/>
+				<effect_description level="3" desc_key="desc_f_sa3" long_desc_key="desc_long_f_sa3"/>
+			</effect_group>
+	</perk>
+	
 </append>
 </append>

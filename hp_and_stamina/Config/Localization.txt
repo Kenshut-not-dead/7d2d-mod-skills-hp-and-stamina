@@ -14,7 +14,7 @@ hp,progression,perk,,,Special body training - Fortitude,,Особые трени
 desc_HP,progression,perk,,,+ 5 HP,,+ 5 здоровья
 desc_sa,progression,perk,,,+ 5 stamina,,+ 5 выносливости
 Stamina,progression,perk,,,Special body training - Fortitude,,Особые тренировки тела - Выносливости
-desc_sa,progression,perk,,,A special type of trainers to strengthen the cardiovascular system,,Особый вид тренеровок для укрепления сердечно-сосудистой системы
+desc_perk_sa,progression,perk,,,A special type of trainers to strengthen the cardiovascular system,,Особый вид тренеровок для укрепления сердечно-сосудистой системы
 desc_long_sa1,progression,perk,,,"Your cardiovascular system is in critical condition, how did you live at all?",,"Ваша сердечно-сосудистая система находится в критическом состоянии, как вы вообще жили? "
 desc_HP1,progression,perk,,,Suffocating,,Задохлик
 desc_sa1,progression,perk,,,Suffocating,,Задохлик
@@ -39,3 +39,11 @@ desc_long_sa9,progression,perk,,,Your stamina has almost exceeded the human limi
 desc_long_sa10,progression,perk,,,"Thanks to long and hard training, you have finally been able to strengthen your cardiovascular system to superhuman levels. Now you are ready for real survival",,"Благодаря долгим и упорным тренировкам вы, наконец, смогли укрепить свою сердечно-сосудистую систему до сверхчеловеческого уровня. Теперь вы готовы к настоящему выживанию"
 desc_perk_sa,progression,perk,,,A special type of trainers for the cardiovascular system,,Особый вид тренеровок для сердечно-сосудистой системы
 
+Stamina_fast,progression,perk,,,Special body training - Recovery stamina,,Особые тренировки тела - Восстановление выносливости
+desc_perk_f_sa,progression,perk,,,A special type of trainers to accelerate the recovery of endurance,,Особый вид тренеровок для ускорения восстановления выносливости
+desc_f_sa1,progression,perk,,,Beginner athlete,,Начинающий атлет
+desc_f_sa2,progression,perk,,,Professional athlete,,Профессиональный атлет
+desc_f_sa3,progression,perk,,,Superman,,Сверхчеловек
+desc_long_f_sa1,progression,perk,,,Your stamina recovery rate is comparable to that of a novice athlete,,Ваша скорость восстановления выносливости сравнима с начинающим атлетом
+desc_long_f_sa2,progression,perk,,,Your stamina recovery rate is comparable to that of a professional athlete,,Ваша скорость восстановления выносливости сравнима с профессиональным атлетом
+desc_long_f_sa3,progression,perk,,,"By hard training, you were able to overcome the human threshold in the speed of endurance recovery",,Благодаря упорным тренировкам вы смогли преодолеть человеческий порог в скорости восстановления выносливости
