@@ -1,49 +1,94 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,russian
-desc_perk_hp,progression,perk,,,A special type of trainers for strengthening the body,,Особый вид тренеровок для укрепления тела
-desc_long_hp1,progression,perk,,,"Your tendons and bones are like a choke, how did you bring yourself to this state?",,"Ваши сухожилия и кости как у задохлика, как вы довели себя до такого состояния?"
-desc_long_hp2,progression,perk,,,"Your bones and tendons have become a little stronger, but still not perfect",,Ваши кости и сухожилия стали чуть прочнее, но все равно не то
-desc_long_hp3,progression,perk,,,Your tendons and bones can be compared to an ordinary person,,Ваши сухожилия и кости можно сравнить с обычным человеком
-desc_long_hp4,progression,perk,,,Your tendons and bones are slightly better than those of an ordinary person,,Ваши сухожилия и кости чуть лучше чем у обычного человека
-desc_long_hp5,progression,perk,,,Your tendons and bones can be compared to a beginner athlete,,Ваши сухожилия и кости можно сравнить с начинающим атлетом
-desc_long_hp6,progression,perk,,,your tendons and bones are slightly better than those of a novice athlete,,Ваши сухожилия и кости чуть лучше чем у начинающего атлета
-desc_long_hp7,progression,perk,,,Your tendons and bones are like those of a professional athlete,,Ваши сухожилия и кости как у профессионального атлета
-desc_long_hp9,progression,perk,,,Your tendons and bones are almost superhuman,,Ваши сухожилия и кости почти сверхчеловеческие
-desc_long_hp10,progression,perk,,,"Through hard training, you were able to overcome the human limit and become more adapted for survival",,Упорными тренировками вы смогли преодолеть человеческий лимит и стать более приспособленным для выживания 
-desc_long_hp8,progression,perk,,,your tendons and bones are slightly better than those of a professional athlete,,ваши сухожилия и кости чуть лучше чем у профессионального атлета
-hp,progression,perk,,,Special body training - Fortitude,,Особые тренировки тела - Стойкость
-desc_HP,progression,perk,,,+ 5 HP,,+ 5 здоровья
-desc_sa,progression,perk,,,+ 5 stamina,,+ 5 выносливости
-Stamina,progression,perk,,,Special body training - Fortitude,,Особые тренировки тела - Выносливости
-desc_perk_sa,progression,perk,,,A special type of trainers to strengthen the cardiovascular system,,Особый вид тренеровок для укрепления сердечно-сосудистой системы
-desc_long_sa1,progression,perk,,,"Your cardiovascular system is in critical condition, how did you live at all?",,"Ваша сердечно-сосудистая система находится в критическом состоянии, как вы вообще жили? "
-desc_HP1,progression,perk,,,Suffocating,,Задохлик
-desc_sa1,progression,perk,,,Suffocating,,Задохлик
-desc_HP3,progression,perk,,,Normal person,,Нормальный человек
-desc_sa3,progression,perk,,,Normal person,,Нормальный человек
-desc_sa5,progression,perk,,,Beginner athlete,,Начинающий атлет
-desc_HP5,progression,perk,,,Beginner athlete,,Начинающий атлет
-desc_sa7,progression,perk,,,Professional athlete,,Профессиональный атлет
-desc_HP7,progression,perk,,,Professional athlete,,Профессиональный атлет
-desc_sa9,progression,perk,,,Almost superhuman,,Почти сверхчеловек
-desc_HP9,progression,perk,,,Almost superhuman,,Почти сверхчеловек
-desc_sa10,progression,perk,,,Superman,,Сверхчеловек
-desc_HP10,progression,perk,,,Superman,,Сверхчеловек
-desc_long_sa2,progression,perk,,,HP,,Вы наконец-то решили заняться утренней разминкой?
-desc_long_sa3,progression,perk,,,Have you finally decided to do your morning workout?,,Вы наконец-то решили заняться утренней разминкой?
-desc_long_sa4,progression,perk,,,Are you jogging?,,Вы занимаетесь пробежкой?
-desc_long_sa5,progression,perk,,,Now your stamina is comparable to that of a novice athlete,,Теперь ваша выносливость сравнима с начинающим атлетом
-desc_long_sa6,progression,perk,,,Now your stamina is slightly better than that of a novice athlete,,Теперь ваша выносливость чуть лучше чем у начинающего атлета
-desc_long_sa7,progression,perk,,,Your stamina is comparable to a professional athlete,,Ваша выносливость сравнима с профессиональным атлетом
-desc_long_sa8,progression,perk,,,Now your stamina is slightly better than that of a professional athlete,,Теперь ваша выносливость чуть лучше чем у профессионального атлета
-desc_long_sa9,progression,perk,,,Your stamina has almost exceeded the human limit,,Ваша выносливость почти что превысила человеческий предел
-desc_long_sa10,progression,perk,,,"Thanks to long and hard training, you have finally been able to strengthen your cardiovascular system to superhuman levels. Now you are ready for real survival",,"Благодаря долгим и упорным тренировкам вы, наконец, смогли укрепить свою сердечно-сосудистую систему до сверхчеловеческого уровня. Теперь вы готовы к настоящему выживанию"
-desc_perk_sa,progression,perk,,,A special type of trainers for the cardiovascular system,,Особый вид тренеровок для сердечно-сосудистой системы
+Key,english,russian,german
+desc_perk_hp,"A special type of trainers for strengthening the body","Особый вид тренеровок для укрепления тела","Eine besondere Art von Training zur Stärkung des Körpers"
 
-Stamina_fast,progression,perk,,,Special body training - Recovery stamina,,Особые тренировки тела - Восстановление выносливости
-desc_perk_f_sa,progression,perk,,,A special type of trainers to accelerate the recovery of endurance,,Особый вид тренеровок для ускорения восстановления выносливости
-desc_f_sa1,progression,perk,,,Beginner athlete,,Начинающий атлет
-desc_f_sa2,progression,perk,,,Professional athlete,,Профессиональный атлет
-desc_f_sa3,progression,perk,,,Superman,,Сверхчеловек
-desc_long_f_sa1,progression,perk,,,Your stamina recovery rate is comparable to that of a novice athlete,,Ваша скорость восстановления выносливости сравнима с начинающим атлетом
-desc_long_f_sa2,progression,perk,,,Your stamina recovery rate is comparable to that of a professional athlete,,Ваша скорость восстановления выносливости сравнима с профессиональным атлетом
-desc_long_f_sa3,progression,perk,,,"By hard training, you were able to overcome the human threshold in the speed of endurance recovery",,Благодаря упорным тренировкам вы смогли преодолеть человеческий порог в скорости восстановления выносливости
+desc_long_hp1,"Your tendons and bones are like a choke, how did you bring yourself to this state?","Ваши сухожилия и кости как у задохлика, как вы довели себя до такого состояния?","Deine Sehnen und Knochen sind wie ein Würgegriff, wie hast du dich in diesen Zustand gebracht?"
+
+desc_long_hp2,"Your bones and tendons have become a little stronger, but still not perfect","Ваши кости и сухожилия стали чуть прочнее, но все равно не то","Deine Knochen und Sehnen sind ein wenig stärker geworden, aber immer noch nicht perfekt."
+
+desc_long_hp3,"Your tendons and bones can be compared to an ordinary person","Ваши сухожилия и кости можно сравнить с обычным человеком","Deine Sehnen und Knochen können mit denen eines normalen Menschen verglichen werden"
+
+desc_long_hp4,"Your tendons and bones are slightly better than those of an ordinary person","Ваши сухожилия и кости чуть лучше чем у обычного человека","Deine Sehnen und Knochen sind etwas besser als die eines normalen Menschen"
+
+desc_long_hp5,"Your tendons and bones can be compared to a beginner athlete","Ваши сухожилия и кости можно сравнить с начинающим атлетом","Deine Sehnen und Knochen können mit denen eines Anfängerathleten verglichen werden"
+
+desc_long_hp6,"Your tendons and bones are slightly better than those of a novice athlete","Ваши сухожилия и кости чуть лучше чем у начинающего атлета","Deine Sehnen und Knochen sind etwas besser als die eines unerfahrenen Sportlers"
+
+desc_long_hp7,"Your tendons and bones are like those of a professional athlete","Ваши сухожилия и кости как у профессионального атлета","Deine Sehnen und Knochen sind wie die eines Profisportlers"
+
+desc_long_hp9,"Your tendons and bones are almost superhuman","Ваши сухожилия и кости почти сверхчеловеческие","Deine Sehnen und Knochen sind fast übermenschlich"
+
+desc_long_hp10,"Through hard training, you were able to overcome the human limit and become more adapted for survival","Упорными тренировками вы смогли преодолеть человеческий лимит и стать более приспособленным для выживания","Durch hartes Training konntest du die menschlichen Grenzen überwinden und dich besser an das Überleben anpassen." 
+
+desc_long_hp8,"your tendons and bones are slightly better than those of a professional athlete","ваши сухожилия и кости чуть лучше чем у профессионального атлета","Deine Sehnen und Knochen sind etwas besser als die eines Profisportlers"
+
+hp,"Special body training - Fortitude","Особые тренировки тела - Стойкость","Spezielles Körpertraining - Standhaftigkeit"
+
+desc_HP,"+ 5 HP","+ 5 здоровья","+ 5 HP"
+
+desc_sa,"+ 5 stamina","+ 5 выносливости","+ 5 Ausdauer"
+
+Stamina,"Special body training - Fortitude","Особые тренировки тела - Выносливости","Spezielles Körpertraining - Ausdauer"
+
+desc_perk_sa,"A special type of trainers to strengthen the cardiovascular system","Особый вид тренеровок для укрепления сердечно-сосудистой системы","Eine spezielle Art von Training zur Stärkung des Herz-Kreislauf-Systems"
+
+desc_long_sa1,"Your cardiovascular system is in critical condition, how did you live at all?","Ваша сердечно-сосудистая система находится в критическом состоянии, как вы вообще жили? ","Dein Herz-Kreislauf-System ist in einem kritischen Zustand, wie hast du überhaupt überlebt?"
+
+desc_HP1,"Suffocating","Задохлик","Erstickend"
+
+desc_sa1,"Suffocating","Задохлик","Erstickend"
+
+desc_HP3,"Normal person","Нормальный человек","Normale Person"
+
+desc_sa3,"Normal person","Hормальный человек","Normale Person"
+
+desc_sa5,"Beginner athlete","Начинающий атлет","Sportanfänger"
+
+desc_HP5,"Beginner athlete","Начинающий атлет","Sportanfänger"
+
+desc_sa7,"Professional athlete","Профессиональный атлет","Profisportler"
+
+desc_HP7,"Professional athlete","Профессиональный атлет","Profisportler"
+
+desc_sa9,"Almost superhuman","Почти сверхчеловек","Fast Übermenschlich"
+
+desc_HP9,"Almost superhuman","Почти сверхчеловек","Fast Übermenschlich"
+
+desc_sa10,"Superman","Сверхчеловек","Superman"
+
+desc_HP10,"Superman","Сверхчеловек","Superman"
+
+desc_long_sa2,"HP","Вы наконец-то решили заняться утренней разминкой?","Hast du dich endlich entschlossen, dein morgendliches Workout zu machen?"
+
+desc_long_sa3,"Have you finally decided to do your morning workout?","Вы наконец-то решили заняться утренней разминкой?","Hast du dich endlich entschlossen, dein morgendliches Workout zu machen?"
+
+desc_long_sa4,"Are you jogging?","Вы занимаетесь пробежкой?","Joggst du?"
+
+desc_long_sa5,"Now your stamina is comparable to that of a novice athlete","Теперь ваша выносливость сравнима с начинающим атлетом","Deine Ausdauer ist jetzt vergleichbar mit der eines Sportanfängers"
+
+desc_long_sa6,"Now your stamina is slightly better than that of a novice athlete","Теперь ваша выносливость чуть лучше чем у начинающего атлета","Deine Ausdauer ist jetzt etwas besser als die eines Sportanfängers"
+
+desc_long_sa7,"Your stamina is comparable to a professional athlete","Ваша выносливость сравнима с профессиональным атлетом","Deine Ausdauer ist mit der eines Profisportlers vergleichbar"
+
+desc_long_sa8,"Now your stamina is slightly better than that of a professional athlete","Теперь ваша выносливость чуть лучше чем у профессионального атлета","Deine Ausdauer ist jetzt etwas besser als die eines Profisportlers"
+
+desc_long_sa9,"Your stamina has almost exceeded the human limit","Ваша выносливость почти что превысила человеческий предел","Deine Ausdauer hat die menschliche Grenze fast überschritten"
+
+desc_long_sa10,"Thanks to long and hard training, you have finally been able to strengthen your cardiovascular system to superhuman levels. Now you are ready for real survival","Благодаря долгим и упорным тренировкам вы, наконец, смогли укрепить свою сердечно-сосудистую систему до сверхчеловеческого уровня. Теперь вы готовы к настоящему выживанию","Durch langes und hartes Training hast du es endlich geschafft, dein Herz-Kreislauf-System auf ein übermenschliches Niveau zu bringen. Jetzt bist du bereit für das echte Überleben."
+
+desc_perk_sa,"A special type of trainers for the cardiovascular system","Особый вид тренеровок для сердечно-сосудистой системы","Eine besondere Art von Training für das Herz-Kreislauf-System"
+
+Stamina_fast,"Special body training - Recovery stamina","Особые тренировки тела - Восстановление выносливости","Spezielles Körpertraining - Erholungskraft"
+
+desc_perk_f_sa,"A special type of trainers to accelerate the recovery of endurance","Особый вид тренеровок для ускорения восстановления выносливости","Eine spezielle Art von Training zur Beschleunigung der Erholung der Ausdauer"
+
+desc_f_sa1,"Beginner athlete","Начинающий атлет","Sportanfänger"
+
+desc_f_sa2,"Professional athlete","Профессиональный атлет","Profisportler"
+
+desc_f_sa3,"Superman","Сверхчеловек","Superman"
+
+desc_long_f_sa1,"Your stamina recovery rate is comparable to that of a novice athlete","Ваша скорость восстановления выносливости сравнима с начинающим атлетом","Die Erholungsrate deiner Ausdauer ist vergleichbar mit der eines Sportanfängers"
+
+desc_long_f_sa2,"Your stamina recovery rate is comparable to that of a professional athlete","Ваша скорость восстановления выносливости сравнима с профессиональным атлетом","Die Erholungsrate deiner Ausdauer ist mit der eines Profisportlers vergleichbar"
+
+desc_long_f_sa3,"By hard training, you were able to overcome the human threshold in the speed of endurance recovery","Благодаря упорным тренировкам вы смогли преодолеть человеческий порог в скорости восстановления выносливости","Durch hartes Training warst du in der Lage, die menschliche Schwelle bei der Geschwindigkeit der Ausdauererholung zu überwinden"
